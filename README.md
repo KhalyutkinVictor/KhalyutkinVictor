@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KhalyutkinVictor
 - 👀 I’m interested in gamedev, highload, go, php, vuejs, svelte
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Go, TensorFlow.js
 - 💞️ I’m looking to collaborate on some funny game
 - 📫 How to reach me Khalutkin1@yandex.ru
 
