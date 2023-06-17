@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhalyutkinVictor
-- 👀 I’m interested in gamedev, highload, go, php, vuejs, svelte
-- 🌱 I’m currently learning something
-- 💞️ I’m looking to collaborate on some funny game
+- 👀 I’m interested in gamedev, highload, go, php, c#, python
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on some small useless project
 - 📫 How to reach me Khalutkin1@yandex.ru
 
 <!---
